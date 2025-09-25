@@ -15,7 +15,7 @@
 - pyqt
 - Gradio (간단한 UI, 선택사항)
 
-## 📦 Installation
+## 📦 Usage
 ```bash
 git clone https://github.com/jeonghh04/DKU_DataExtraction.git
 cd DKU_DataExtraction/DataExt
