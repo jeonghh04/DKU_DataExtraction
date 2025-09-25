@@ -20,12 +20,12 @@
 git clone https://github.com/jeonghh04/DKU_DataExtraction.git
 cd DKU_DataExtraction/DataExt
 pip install -r requirements.txt
-
+```
 ## 🚀 Usage
 ```bash
 python main.py
 http://127.0.0.1:7865 접속
-
+```
 ## 📂 Output
 결과는 outputs/ 폴더에 JSON 형태로 저장
 ```bash
@@ -50,3 +50,4 @@ http://127.0.0.1:7865 접속
     "전시품목": "시설, 중장비, 운송, 처리 기술 및 시스템",
     "출처": "GEP"
 }
+```
