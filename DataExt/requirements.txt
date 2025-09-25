@@ -1,0 +1,6 @@
+crawl4ai
+gradio
+pyperclip
+pydantic
+rapidfuzz
+requests
